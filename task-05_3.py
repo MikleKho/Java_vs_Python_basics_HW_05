@@ -1,3 +1,5 @@
+# Реализовать алгоритм пирамидальной сортировки (HeapSort).
+
 import random
 
 def sort_heap(list):
